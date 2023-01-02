@@ -1,6 +1,7 @@
 # incompetent-string-8638
 
-Jefit_Clone - An online store for personal trainers and training guides, jefit.com, offers a wide variety of exercise categories that target particular muscle regions.
+Jefit_Clone - An online store for personal trainers and training guides, jefit.com, 
+offers a wide variety of exercise categories that target particular muscle regions.
 JS 201 Project
 Netlify: https://shimmering-starburst-c610de.netlify.app/
 
