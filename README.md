@@ -1,8 +1,10 @@
-# incompetent-string-8638
+
 
 Jefit_Clone - An online store for personal trainers and training guides, jefit.com, 
 offers a wide variety of exercise categories that target particular muscle regions.
-JS 201 Project
+Plan, track, and log your workouts in the #1 mobile fitness app. Choose from hundreds of professionally built workout plans and reach your goals quicker.
+
+
 Netlify: https://shimmering-starburst-c610de.netlify.app/
 
 ![Screenshot (762)](https://user-images.githubusercontent.com/101391587/210252338-7d32b199-201d-4cc8-959f-c0b0b14aabcd.png)
